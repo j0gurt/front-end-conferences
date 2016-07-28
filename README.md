@@ -55,6 +55,10 @@ England, **London**
 25-26 August, 2016  
 Reykjavik, **Iceland**
 
+[**Frontend Union Conf 2016**](http://frontend-union.co/)  
+27 August, 2016  
+Vilnius, **Lithuania**
+
 [**ColdFront 2016**](https://2016.coldfrontconf.com/)  
 1 September, 2016  
 Copenhagen, **Denmark**
